@@ -18,7 +18,7 @@ Simply click the save button to save
 
 Below is an image displaying the schedule:
 
-![](sample.jpg)
+![example img](sample.JPG)
 
 ## Review
 
