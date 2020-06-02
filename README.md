@@ -12,9 +12,13 @@ This will help you manage your time effectively
 <br>
 
 Using the 9am-5pm work schedule
+<br>
 Select the hour/s you desire to schedule throughout the day
+<br>
 After you enter the plans
+<br>
 Simply click the save button to save
+<br><br>
 
 Below is an image displaying the schedule:
 
@@ -23,4 +27,4 @@ Below is an image displaying the schedule:
 ## Review
 
 Here is the link to the application:
-(https://https://bigmak88.github.io/DayScheduleX/)
+(https://bigmak88.github.io/DayScheduleX/)
